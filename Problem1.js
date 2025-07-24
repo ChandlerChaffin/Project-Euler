@@ -5,4 +5,5 @@ for  (let i = 0; i < 1000; i++) {
   }
 }
 console.log(count);
-  
+// Find the Sum of all multiples of  3 or 5 below 1000
+//

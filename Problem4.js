@@ -1,3 +1,5 @@
+// Find the largest palindrome made from the product of two 3-digit numbers. 
+//
 function isPalindrome(n) 
 {
 if (n == Number(String(n).split('').reverse().join('')))
